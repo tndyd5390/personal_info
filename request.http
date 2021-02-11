@@ -1,0 +1,8 @@
+###
+POST https://api.iamport.kr/users/getToken
+Content-Type: application/json
+
+{
+    "imp_key": "9253904035662612",
+    "imp_secret": "SAZMbdV9usytxYzUyevOUC6CzXF0apS2ZROb5KkzcS3JRCEpR9dLMjomh3msseus6jDc4YMgRP0IsE8j"
+}
